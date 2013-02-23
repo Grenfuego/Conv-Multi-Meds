@@ -7,3 +7,6 @@ Integrantes:
 
 Guty Fuentes
 Luis Gomez
+Julie Arana
+Victor Cifuentes
+Emmanuel Orellana
